@@ -1,8 +1,13 @@
 #include "Warrior.h"
 
-void test();
+int sum(int a, int b);
 
 int main()
 {
+	std::cout >> sum(5, 5);
+}
 
+int sum(x, y)
+{
+	return x + y;
 }
