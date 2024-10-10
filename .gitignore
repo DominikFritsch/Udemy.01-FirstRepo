@@ -1,3 +1,4 @@
 # Contains items which should not tracked from git
 
 Logs
+*.exe
